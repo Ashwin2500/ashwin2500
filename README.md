@@ -1,28 +1,21 @@
-## Hi there 👋
-<p align = 'center'>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2500&layout=compact&theme=github_dark&hide_border=true"
-  />
-  <br>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ashwin2500&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_title=true&hide_border=true"
-  />
-  <br><br>
-  
+# Hi there 👋
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwin2500&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats">
 </p>
-<!--
-**Ashwin2500/ashwin2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2500&layout=compact&theme=dark" alt="Most Used Languages">
+</p>
 
-- Mastering Svelte
-Here are some ideas to get you started:
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ashwin2500?style=for-the-badge" alt="Total Stars">
+  <img src="https://img.shields.io/github/commits-since/ashwin2500/last?style=for-the-badge" alt="Total Commits">
+  <img src="https://img.shields.io/github/issues-pr/ashwin2500?style=for-the-badge" alt="Total PRs">
+  <img src="https://img.shields.io/github/issues/ashwin2500?style=for-the-badge" alt="Total Issues">
+  <img src="https://img.shields.io/github/contributors/ashwin2500?style=for-the-badge" alt="Contributed to (last year)">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
