@@ -1,5 +1,7 @@
-# Hi there 👋
 
+<p align="center">
+  # Hi there 👋
+</p>
 <!-- Stats Section -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashwin2500&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats">
