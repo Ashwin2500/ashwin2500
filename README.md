@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Ashwin2500/ashwin2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align = 'center'>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin2500&layout=compact&theme=github_dark&hide_border=true"
@@ -13,6 +10,9 @@
   <br><br>
   
 </p>
+<!--
+**Ashwin2500/ashwin2500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - Mastering Svelte
 Here are some ideas to get you started:
