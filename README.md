@@ -14,6 +14,11 @@
 
 
 
+<p align="center">
+  <a href="https://discord.gg/mq3xuKXSkT" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/discord/957992608397934623">
+  </a>
+</p>
 <!-- Social Media Links Section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/ashwinpraseed25/" target="_blank">
