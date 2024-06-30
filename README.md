@@ -15,8 +15,8 @@
 
 
 <p align="center">
-  <a href="https://discord.gg/mq3xuKXSkT" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/discord/957992608397934623">
+ <a href="https://discord.gg/mq3xuKXSkT" target="_blank" class="join-server-button">
+    <img src="https://img.shields.io/badge/Contact%20CW_Servers-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Server">
   </a>
 </p>
 <!-- Social Media Links Section -->
